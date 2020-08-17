@@ -1,0 +1,14 @@
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\bin\Debug\netstandard2.0\XXXonix.deps.json
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\bin\Debug\netstandard2.0\XXXonix.dll
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\bin\Debug\netstandard2.0\ref\XXXonix.dll
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\bin\Debug\netstandard2.0\XXXonix.pdb
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.csprojAssemblyReference.cache
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.AssemblyInfoInputs.cache
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.AssemblyInfo.cs
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.csproj.CoreCompileInputs.cache
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.dll
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\ref\XXXonix.dll
+C:\Users\Potap\Desktop\GitHub\XXXonix\XXXonix\XXXonix\XXXonix\obj\Debug\netstandard2.0\XXXonix.pdb
